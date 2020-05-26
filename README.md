@@ -1,0 +1,2 @@
+# gitea
+Gitea configuration
